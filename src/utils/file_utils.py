@@ -1,6 +1,5 @@
 """Utility functions for file operations."""
 import os
-import shutil
 from datetime import datetime
 from typing import Optional
 
